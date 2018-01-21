@@ -13,14 +13,14 @@ What features this app has?
 
 2) It has special system of checking like:
 
-A) It checks has user typed digits at all. 
+a) It checks has user typed digits at all. 
 
-B) If it was digits for decimals, the app checks if they are proper.
+b) If it was digits for decimals, the app checks if they are proper.
 
-C) It searches for zero digits at the beginning and any dots in it. 
+c) It searches for zero digits at the beginning and any dots in it. 
 
-D) It checks like did user type a signed or unsigned digit, and it makes absolute value of it to work with it further.
+d) It checks like did user type a signed or unsigned digit, and it makes absolute value of it to work with it further.
 
-E) If user typed binary digits it checks if  they are digits in first priority, then do they contain any of digits that are distinguishable to 0 or 1 or it has the dots inside. 
+e) If user typed binary digits it checks if  they are digits in first priority, then do they contain any of digits that are distinguishable to 0 or 1 or it has the dots inside. 
 
-F) If the app found any of discrepancy the system said the message to user that an error occured to provoke his re-typing in correct way.
+f) If the app found any of discrepancy the system said the message to user that an error occured to provoke his re-typing in correct way.
