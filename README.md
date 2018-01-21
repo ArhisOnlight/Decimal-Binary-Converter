@@ -12,11 +12,9 @@ What features this app has?
 1) It converts numbers between binary and decimal range in both directions.
 
 2) It has special system of checking like:
-
-It checks has user typed a number at all. 
-If it was a number for decimals, the app checks if the number is proper. 
-It searches for zero symbols at the beginning and any dots in it. It checks like did user type a signed number, and it makes absolute value of it to work with it further.
-If user typed binary digits it checks if it was a number in first priority, then does it contain any of digits that are distinguishable to 0 or 1 or it has dots inside.
-If the app found any of discrepancy the system said the message to user that an error occured to make his typing correct.
-
-
+a) It checks has user typed digits at all. 
+b) If it was digits for decimals, the app checks if they are proper. 
+c) It searches for zero digits at the beginning and any dots in it. 
+d) It checks like did user type a signed or unsigned digit, and it makes absolute value of it to work with it further.
+e) If user typed binary digits it checks if  they are digits in first priority, then do they contain any of digits that are distinguishable to 0 or 1 or it has the dots inside.
+f) If the app found any of discrepancy the system said the message to user that an error occured to provoke his re-typing in correct way.
