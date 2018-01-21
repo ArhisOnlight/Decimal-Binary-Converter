@@ -17,5 +17,6 @@ It checks has user typed a number at all.
 If it was a number for decimals, the app checks if the number is proper. 
 It searches for zero symbols at the beginning and any dots in it. It checks like did user type a signed number, and it makes absolute value of it to work with it further.
 If user typed binary digits it checks if it was a number in first priority, then does it contain any of digits that are distinguishable to 0 or 1 or it has dots inside.
+If the app found any of discrepancy the system said the message to user that an error occured to make his typing correct.
 
 
