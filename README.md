@@ -12,6 +12,7 @@ What features this app has?
 1) It converts numbers between binary and decimal range in both directions.
 
 2) It has special system of checking like:
+
 a) It checks has user typed digits at all. 
 b) If it was digits for decimals, the app checks if they are proper. 
 c) It searches for zero digits at the beginning and any dots in it. 
