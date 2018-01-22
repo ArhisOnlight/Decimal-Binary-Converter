@@ -1,7 +1,7 @@
 <?php 
 
 /*
-	This is a module that checks that delete anything undesirable which can make an influence on application's code
+	This is a module that checks to delete anything undesirable which can make an influence on application's code
 */
 
 class Secure {
